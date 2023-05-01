@@ -102,12 +102,12 @@ body {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #beb45a;
+  background-color: #8c750e;
   border-radius: 0;
 }
 
 .nav-pills .nav-link:hover {
-  background-color: #beb45a;
+  background-color: #8c750e;
   color: #fff;
   border-radius: 0;
 }
