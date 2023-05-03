@@ -196,6 +196,13 @@ body {
   z-index: 1;
 }
 
+#infos-snipet {
+  text-align: center;
+  margin: 1rem 0 1rem 0;
+  line-height: 2rem;
+  font-weight: 700;
+}
+
 #contact {
   margin: auto;
   background-color: #d8d3a8;
